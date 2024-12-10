@@ -1,7 +1,7 @@
 # Olá, sou a Nathalia!
 ## Bem-vindo ao meu repositório :grin:
 
-:pushpin: Sou engenheira mecânica formada pela USTJ e atualmente estou em transição de carreira para a área de análise de dados. Para esse objetivo, iniciei minha capacitação na plataforma Alura, onde venho aprofundando meus conhecimentos e habilidades. 
+:pushpin: Sou engenheira mecânica pela USTJ e atualmente estou em transição de carreira para a área de análise de dados. Para esse objetivo, iniciei minha capacitação na plataforma Alura, onde venho aprofundando meus conhecimentos e habilidades. 
 
 
 ## Ferramentas e Tecnologias
